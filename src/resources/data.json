@@ -1,0 +1,16 @@
+{
+  "profile_id": "1",
+  "profile_name": "ABC",
+  "minSpeed": "5",
+  "volume": "75",
+  "runParameter": "1",
+  "camera_settings":
+  {
+    "debug": "True",
+    "drowsyCheck": "True",
+    "inattentionCheck": "True",
+    "EYE_AR_THRESH": "0.4",
+    "alert_sensitivity": "15",
+    "detection_sensitivity": "1",
+  }
+}
